@@ -1,0 +1,13 @@
+{
+    "workerPoolSize": "",
+    "simulation": "",
+    "autoRestart": "",
+    "autoinit": "",
+    "stationAddress": "",
+    "host": "",
+    "port": "",
+    "staticFolder": "",
+    "logging_url": "",
+    "language": "",
+    "secretKey" : ""
+}
